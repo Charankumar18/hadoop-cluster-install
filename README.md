@@ -20,7 +20,7 @@ This beginner's tutorial is written purely for educational purposes. This reposi
     * terminal> exit
 * step 5: Login into VM with "hduser" and download & install necessary softwares.
     * terminal> sudo apt update
-    * terminal> sudo apt install vim ssh net-tools openjdk-11-jdk git
+    * terminal> sudo apt install vim ssh net-tools openjdk-8-jdk git
     * terminal> cd ~
     * terminal> wget https://archive.apache.org/dist/hadoop/common/hadoop-3.3.2/hadoop-3.3.2.tar.gz
     * terminal> tar xvf hadoop-3.3.2.tar.gz
@@ -133,7 +133,7 @@ This beginner's tutorial is written purely for educational purposes. This reposi
                 enp0s3:
                     dhcp4: true
                 enp0s8:
-                    addresses: [192.168.56.51/24]
+                    addresses: [192.168.56.53/24]
                     dhcp4: false
         ```
     * terminal> sudo netplan apply
