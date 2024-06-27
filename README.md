@@ -60,7 +60,7 @@ This beginner's tutorial is written purely for educational purposes. This reposi
     * terminal> vim ~/.bashrc
         ```sh
         export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
-        export HADOOP_HOME=$HOME/hadoop-3.3.2
+        export HADOOP_HOME=$HOME/hadoop-3.3.6
         export PATH=$HADOOP_HOME/sbin:$HADOOP_HOME/bin:$PATH
         ```
     * terminal> source ~/.bashrc
