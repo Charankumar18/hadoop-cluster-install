@@ -22,7 +22,7 @@ This beginner's tutorial is written purely for educational purposes. This reposi
     * terminal> sudo apt update
     * terminal> sudo apt install vim ssh net-tools openjdk-8-jdk git
     * terminal> cd ~
-    * terminal> wget https://archive.apache.org/dist/hadoop/common/hadoop-3.3.2/hadoop-3.3.2.tar.gz
+    * terminal> wget https://archive.apache.org/dist/hadoop/common/hadoop-3.3.6/hadoop-3.3.6.tar.gz
     * terminal> tar xvf hadoop-3.3.2.tar.gz
     * terminal> init 0
 * step 6: In VirtualBox enable Host-only networking
